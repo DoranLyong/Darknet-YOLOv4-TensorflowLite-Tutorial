@@ -185,4 +185,5 @@ For ```TensorFlow Lite```, we'll convert to a different TensorFlow SavedModel be
 # Reference 
 [1] [AVA-Dataset-Processing-for-Person-Detection](https://github.com/DoranLyong/AVA-Dataset-Processing-for-Person-Detection) / for training person detection dataset <br/>
 [2] [yolov4-tiny-tflite-for-person-detection](https://github.com/DoranLyong/yolov4-tiny-tflite-for-person-detection) / an example of person detector trained by Darknet <br/>
-[3] [TRAIN A CUSTOM YOLOv4-tiny OBJECT DETECTOR USING GOOGLE COLAB](https://medium.com/analytics-vidhya/train-a-custom-yolov4-tiny-object-detector-using-google-colab-b58be08c9593#a70f) / 
+[3] [TRAIN A CUSTOM YOLOv4-tiny OBJECT DETECTOR USING GOOGLE COLAB](https://medium.com/analytics-vidhya/train-a-custom-yolov4-tiny-object-detector-using-google-colab-b58be08c9593#a70f) / <br/>
+[4] [tensorflow-yolov4-tflite](https://github.com/hunglc007/tensorflow-yolov4-tflite) / to convert ```darknet``` to ```tensorflow``` <br/>
