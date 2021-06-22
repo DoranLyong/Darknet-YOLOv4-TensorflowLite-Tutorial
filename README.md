@@ -1,7 +1,7 @@
 # Darknet yolov4-tiny (feat. Tensorflow Lite)
 
 The ```$root``` path is assumpted as current repository path. <br/>
-This repository includes a setupt for trianing person detector, but you can apply this method for training the other dataset.</br>
+This repository includes a setup for trianing person detector, but you can apply this method for training the other dataset.</br>
 
 
 
